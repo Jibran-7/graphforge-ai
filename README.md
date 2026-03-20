@@ -1,7 +1,7 @@
-# GraphRAG Intelligence Platform
+# GraphForge
 
 ## 1. Project Title
-GraphRAG Intelligence Platform: Local Document-to-Knowledge-Graph Intelligence System
+GraphForge: Local Document-to-Knowledge-Graph Intelligence System
 
 ## 2. Problem Statement
 Traditional retrieval pipelines answer questions from isolated text chunks but struggle with cross-document relationships, entity disambiguation, and multi-hop reasoning. This creates blind spots when users need to understand how people, organizations, events, and concepts are connected across many files. The challenge is to move beyond flat semantic search toward a structure-aware system that can represent and query relationships directly.
